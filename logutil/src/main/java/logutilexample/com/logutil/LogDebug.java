@@ -14,4 +14,24 @@ public class LogDebug {
 
         Log.d(TAG, "d msg: " + msg);
     }
+
+    public static void e(String msg) {
+
+        Log.d(TAG, "e msg: " + msg);
+    }
+
+    public static void v(String msg) {
+
+        Log.v(TAG, "d msg: " + msg);
+    }
+
+    public static void i(String msg) {
+
+        Log.i(TAG, "d msg: " + msg);
+    }
+
+    public static void w(String msg) {
+
+        Log.w(TAG, "d msg: " + msg);
+    }
 }
