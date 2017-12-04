@@ -34,4 +34,5 @@ public class LogDebug {
 
         Log.w(TAG, "d msg: " + msg);
     }
+
 }
